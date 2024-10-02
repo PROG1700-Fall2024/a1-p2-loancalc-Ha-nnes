@@ -19,3 +19,5 @@ Weekly_Payment = (i / Denominator) * A
 
 # Output the result
 print(f"The weekly payment is: ${Weekly_Payment:.2f}")
+
+# Ready to mark
